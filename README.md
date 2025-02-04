@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on basic game dev. using Lua.
 - 🌱 I’m currently learning machineLearning
 - 👯 I’m looking to collaborate on gameDevs or muscial projects
-- 📫 How to reach me: samuelsidc28@gmail.com
 - ⚡ Fun fact: I am a music lover and student. My mains instruments are guitar and piano.
 
 <div style="display: inline_block"><br>
