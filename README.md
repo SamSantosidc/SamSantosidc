@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey!!! 👋
 
 - 🔭 I’m currently working on HEINEKEN - IA Aplicada a Dados com Compilot;
 - 🌱 I’m currently learning machineLearning, basic game dev. using Lua ;
