@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on basic game dev. using Lua.
-- 🌱 I’m currently learning machineLearning
-- 👯 I’m looking to collaborate on gameDevs or muscial projects
+- 🔭 I’m currently working on basic game dev. using Lua, HEINEKEN - IA Aplicada a Dados com Compilot;
+- 🌱 I’m currently learning machineLearning and ;
+- 👯 I’m looking to collaborate on gameDevs or muscial projects;
 - ⚡ Fun fact: I am a music lover and student. My mains instruments are guitar and piano.
 
 <div style="display: inline_block"><br>
