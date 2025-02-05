@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on gameDevs or muscial projects;
 - ⚡ Fun fact: I am a music lover and student. My mains instruments are guitar and piano.
 
-## My Stack
+<h3 align="left">My Stack ~</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
