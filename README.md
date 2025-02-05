@@ -1,9 +1,17 @@
-## Hey!!! 👋
+<h3 align="left">Materiais Utilizados Para Estudo ~</h3>
 
-- 🔭 I’m currently working on HEINEKEN - IA Aplicada a Dados com Compilot;
-- 🌱 I’m currently learning machineLearning, basic game dev. using Lua ;
-- 👯 I’m looking to collaborate on gameDevs or muscial projects;
-- ⚡ Fun fact: I am a music lover and student. My mains instruments are guitar and piano.
+- 📚 BootCamp HEINEKEN - IA Aplicada a Dados com Compilot;
+- 🕹️ DankiCode Curso de Desenvolvimento de Jogos ;
+- 🎮 Design de Games: uma Abordagem Prática - Paul Schuytema;
+- 📖StatQuest - Curso em vídeo sobre Machine Learning.
+
+#
+
+<p align="center">Estudante de Sistemas de Informação na Universidade Federal da Paraíba. Atualmente as linguagens que eu estudo são Java, Python, Lua e JavaScript paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Curiosidades sobre mim, sou amante e estudioso da música, tenho muita afeição por compor, meus principais instrumentos são violão e piano.
+  
+#
 
 <h3 align="left">My Stack ~</h3>
 
@@ -16,7 +24,7 @@
 
 ##
 
-## Contatct with me !
+<h3 align="left">Connect with me!</h3>
 <div> 
   <a href="https://instagram.com/samuel_ismaeldc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:samuelsidc28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
