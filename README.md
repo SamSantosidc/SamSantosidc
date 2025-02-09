@@ -7,9 +7,8 @@
 
 #
 
-<p align="center">Estudante de Sistemas de Informação na Universidade Federal da Paraíba. Atualmente as linguagens que eu estudo são Java, Python, Lua e JavaScript paralelamente.
+<p align="center">Estudante de Sistemas de Informação na Universidade Federal da Paraíba. Atualmente estudo Java, Python, Lua e JavaScript paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-Curiosidades sobre mim, sou amante e estudioso da música, tenho muita afeição por compor, meus principais instrumentos são violão e piano.
   
 #
 
