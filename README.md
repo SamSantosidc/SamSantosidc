@@ -7,10 +7,6 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 <br>
  Passionate about music and technology, developing a project that combines both worlds <a href="https://www.instagram.com/samuel_ismaeldc/">(@samuel_ismaeldc)</a>.</p>
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://i.pinimg.com/474x/ec/c0/78/ecc078a9625ac766704b4851fd3d21c2.jpg" alt="Image" style="max-width: 100px; height: auto; margin-left: 15px;">
-</div>
-
  <h3 align="left">My Stack </h3>
 
 <div style="display: inline_block"><br>
