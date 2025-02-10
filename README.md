@@ -1,18 +1,13 @@
-<h3 align="left">Materiais Utilizados Para Estudo ~</h3>
+<h1>
+    <span>Samuel Santos</span>
+</h1>
 
-- 📚 BootCamp HEINEKEN - IA Aplicada a Dados com Compilot;
-- 🕹️ DankiCode Curso de Desenvolvimento de Jogos ;
-- 🎮 Design de Games: uma Abordagem Prática - Paul Schuytema;
-- 📖StatQuest - Curso em vídeo sobre Machine Learning.
+<p align="justify">Information Systems student at the Federal University of Paraíba. I currently study Java, Python, Lua and JavaScript in parallel.
+I am constantly updating my knowledge and seeking new challenges in the technology area. I have a passion for learning and applying this knowledge to create innovative solutions.
+<br>
+ Passionate about music and technology, developing a project that combines both worlds <a href="https://www.instagram.com/samuel_ismaeldc/">(@samuel_ismaeldc)</a>.</p>
 
-#
-
-<p align="center">Estudante de Sistemas de Informação na Universidade Federal da Paraíba. Atualmente estudo Java, Python, Lua e JavaScript paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
-
-<h3 align="left">My Stack ~</h3>
+ <h3 align="left">My Stack ~</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +15,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+#
+
+<h3 align="left">Materials Used for Study </h3>
+
+- 📚 BootCamp HEINEKEN - IA Aplicada a Dados com Compilot;
+- 🕹️ DankiCode Curso de Desenvolvimento de Jogos ;
+- 🎮 Design de Games: uma Abordagem Prática - Paul Schuytema;
+- 📖StatQuest - Curso em vídeo sobre Machine Learning.
 
 ##
 
@@ -32,13 +36,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 ##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamSantosidc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamSantosidc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
