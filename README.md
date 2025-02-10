@@ -25,7 +25,11 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 - 🎮 Design de Games: uma Abordagem Prática - Paul Schuytema;
 - 📖StatQuest - Curso em vídeo sobre Machine Learning.
 
-##
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samuel-santos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
 
 <h3 align="left">Connect with me!</h3>
 <div> 
