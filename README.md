@@ -20,24 +20,18 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 
 <h3 align="left">Materials Used for Study </h3>
 
-- 📚 BootCamp HEINEKEN - IA Aplicada a Dados com Compilot;
-- 🕹️ DankiCode Curso de Desenvolvimento de Jogos ;
-- 🎮 Design de Games: uma Abordagem Prática - Paul Schuytema;
-- 📖StatQuest - Curso em vídeo sobre Machine Learning.
+-  BootCamp HEINEKEN - IA Aplicada a Dados com Compilot;
+-  DankiCode Curso de Desenvolvimento de Jogos ;
+-  Design de Games: uma Abordagem Prática - Paul Schuytema;
+-  StatQuest - Curso em vídeo sobre Machine Learning.
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samuel-santos-01009734b)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://instagram.com/samuel_ismaeldc)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF0000&color:FFF)](mailto:samuelsidc28@gmail.com)
+<!-- [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](Link de um futuro canal🙏) -->
 
-<h3 align="left">Connect with me!</h3>
-<div> 
-  <a href="https://instagram.com/samuel_ismaeldc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:samuelsidc28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-santos-01009734b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
 
 ##
 
