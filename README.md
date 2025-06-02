@@ -2,7 +2,7 @@
     <span>Samuel Santos</span>
 </h1>
 
-<p align="justify">Information Systems student at the Federal University of Paraíba. I currently study Java, Python, Lua and JavaScript in parallel.
+<p align="justify">Computer science student at the Federal University of Paraíba. I currently study Java, Python, Lua and JavaScript in parallel.
 I am constantly updating my knowledge and seeking new challenges in the technology area. I have a passion for learning and applying this knowledge to create innovative solutions.
 <br>
  Passionate about music and technology, developing a project that combines both worlds <a href="https://www.instagram.com/samuel_ismaeldc/">(@samuel_ismaeldc)</a>.</p>
