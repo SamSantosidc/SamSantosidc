@@ -22,7 +22,7 @@ jobs:
           config: |
             theme: dark
             color_snake: '#FF00F6'
-            color_dots: '#1A001A,#330033,#660066,#990099,#FF00F6'
+            color_dots: '#001F3F,#003366,#004C99,#0074D9,#00BFFF'
             background: '#000000'
 
       - name: Push to GitHub
