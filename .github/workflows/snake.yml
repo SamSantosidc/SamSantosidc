@@ -19,6 +19,11 @@ jobs:
           github_user_name: SamSantosidc  # <-- seu nome de usuário GitHub
           outputs: |
             dist/github-contribution-grid-snake.svg
+          config: |
+            theme: dark
+            color_snake: '#FF00F6'
+            color_dots: '#000000,#222222,#444444,#666666,#888888'
+            background: '#000000'
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
