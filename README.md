@@ -51,3 +51,7 @@
 ---
 
 ### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamSantosidc/SamSantosidc/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
