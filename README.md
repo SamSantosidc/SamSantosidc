@@ -47,11 +47,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSantosidc&layout=compact&langs_count=6&hide_title=true&hide=html,scss,less&bg_color=000&title_color=FF00F6&text_color=8B8B8B&border_radius=8&border_color=561760" alt="Most Used Languages">
 </div>
-
----
-
-### Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SamSantosidc/SamSantosidc/output/github-contribution-grid-snake.svg?timestamp=1" />
-</p>
