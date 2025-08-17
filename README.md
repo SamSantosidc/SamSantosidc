@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  Computer Science undergraduate at the Federal University of Paraíba (UFPB).<br>
-  Currently studying Java, Python, Lua, and JavaScript in parallel.<br>
-  Passionate about technology, problem-solving, and exploring how logic and creativity can work together.<br>
-  I am also deeply interested in music and technology — currently developing a project that connects both areas  
-  <a href="https://www.instagram.com/samuel_ismaeldc/">(@samuel_ismaeldc)</a>.
+  My name is Samuel, I am Brazilian and currently living in João Pessoa, Paraíba.<br>
+  I am pursuing a degree in Computer Science at the Federal University of Paraíba (UFPB).<br>
+  Passionate about <strong>Data Science, Machine Learning and Natural Language Processing (NLP)</strong>, 
+  I am constantly learning and seeking new challenges in technology.<br>
+  Besides tech, music is also a big part of my life — I am a musician and enjoy exploring how creativity connects with science.  
 </p>
 
 ---
