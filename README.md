@@ -16,13 +16,6 @@ Reach me throught: **samuel.ismael@academico.ufpb.br**
 
 </div>
 
-
----
-
-## Highlighted Projects
-
-(Adicione aqui seus repositórios mais importantes, como Itamar faz com os dele)
-
 ---
 
 ## GitHub Stats
