@@ -1,106 +1,101 @@
-# Hi, I'm Samuel Santos 👋
+<h1 align="center">Hi, I'm Samuel Ismael 👋</h1>
 
-Computer Science undergraduate at the **Federal University of Paraíba (UFPB)**, undergraduate researcher at **ARIA**, and member of **TAIL — Technology and Artificial Intelligence League**.
+<p align="center">
+  Computer Science undergraduate at the Federal University of Paraíba
+  <br>
+  Undergraduate Researcher at ARIA · Artificial Intelligence and Data Science
+</p>
 
-My main interests include **Artificial Intelligence, Data Science, Natural Language Processing, Music Information Retrieval, Signal Processing, and Computer Vision**.
-
-Currently, I am involved in research and projects related to:
-
-- Retrieval-Augmented Generation and information retrieval
-- Machine learning and deep learning
-- Music Information Retrieval and audio processing
-- Neural networks applied to rhythmic structures
-- Development of educational content about Artificial Intelligence
-
----
-
-## Experience
-
-At **TAIL**, I have worked in different technical and educational roles:
-
-- Leader of the Trainees Board
-- Artificial Intelligence instructor and teaching assistant
-- Researcher and Data Scientist in the Music Board
-- Data Scientist trainee in the MedWay project
-- Contributor to digital content and event materials
-
----
-
-## Technologies
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-santos-01009734b">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=58A6FF"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:samuel.ismael@academico.ufpb.br">
+    <img
+      src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"
+      alt="Email"
+    />
+  </a>
+  <a href="https://instagram.com/samuel_ismaeldc">
+    <img
+      src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
 ---
 
-## Current Research and Projects
+## About me
+
+I am a Computer Science undergraduate at the **Federal University of Paraíba (UFPB)**, an undergraduate researcher at **ARIA**, and a member of **TAIL — Technology and Artificial Intelligence League**.
+
+My main interests include **Artificial Intelligence**, **Data Science**, **Natural Language Processing**, **Music Information Retrieval**, **Signal Processing**, and **Computer Vision**.
+
+At TAIL, I have contributed as a researcher, Data Scientist, instructor, teaching assistant, and leader of the Trainees Board, supporting technical projects and Artificial Intelligence education.
+
+---
+
+## Featured Projects
+
+### RNA-Mining
+
+Maintenance and modernization of a machine learning tool for RNA sequence analysis, including dependency updates, model-loading improvements, and support for new organisms.
+
+### RAG-MAMA
+
+Development and evaluation of a Retrieval-Augmented Generation pipeline focused on information retrieval, reranking, and retrieval-quality evaluation.
 
 ### Gention
 
-Ongoing research exploring the use of **rhythmic cells as inputs for neural networks**, investigating computational representations of rhythm and their applications in music-related machine learning tasks.
-
-### Retrieval-Augmented Generation
-
-Development and evaluation of RAG pipelines involving:
-
-- Semantic, BM25, and hybrid retrieval
-- Cross-encoder reranking
-- BGE reranker models
-- ChromaDB vector storage
-- DeepEval retrieval metrics
-- Ground-truth generation and single-document validation
+Ongoing research investigating the use of rhythmic cells as inputs for neural networks and their applications in Music Information Retrieval.
 
 ---
 
-## Contact
+## Tech Stack
 
-You can reach me through:
+### Languages and Development
 
-<div align="left">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,fastapi" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-01009734b)
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuel_ismaeldc)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.ismael@academico.ufpb.br)
+### Artificial Intelligence and Data Science
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas&logoColor=9B7EDE" />
+  <img src="https://img.shields.io/badge/NumPy-181717?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/Librosa-181717?style=for-the-badge&logo=python&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/Power%20BI-181717?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+</p>
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SamSantosidc&show_icons=true&count_private=true&hide_title=true&hide=issues&bg_color=0D1117&title_color=3BAFDA&text_color=E6E6E6&icon_color=3BAFDA&border_radius=8" />
+<a href="https://github.com/SamSantosidc">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SamSantosidc&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&hide_title=true"
+    alt="Samuel Ismael's GitHub activity graph"
+  />
+</a>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSantosidc&layout=compact&langs_count=6&hide_title=true&bg_color=0D1117&title_color=3BAFDA&text_color=E6E6E6&border_radius=8" />
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/SamSantosidc?label=Followers&style=flat&color=3BAFDA" />
-<img src="https://img.shields.io/github/stars/SamSantosidc?label=Stars&style=flat&color=3BAFDA" />
-<img src="https://komarev.com/ghpvc/?username=SamSantosidc&color=3BAFDA" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamSantosidc&bg_color=0D1117&color=3BAFDA&line=3BAFDA&point=FFFFFF&area=true&hide_border=true" />
+<a href="https://github.com/SamSantosidc">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SamSantosidc&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true"
+    alt="Samuel Ismael's GitHub stats"
+  />
+</a>
 
 </div>
